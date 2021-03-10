@@ -1,9 +1,5 @@
 [![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-blue.svg)](https://bit.ly/cc-by-nc-sa-40)
 
-# Template repository
-
-This is a template repository for programming laboratory works in BSUIR.
-
 # Usage
 
 To compile and run a program use:
@@ -13,11 +9,19 @@ $ ./build.sh gcc src/<filename>
 
 Executable will be started automatically. It can be found in `build/scr/` folder.
 
-# Semester \<#\> lab \<#\>
+# Semester \<2\> lab \<4\>
 
-## Task \<#\>
+## Task \<1\>
 
-Task description.
+С клавиатуры заполнить файл целыми числами. Вывести содержимое файла на экран.
+
+## Task \<2\>
+
+Найти среднее арифметическое всех чисел в файле.
+
+## Task \<3\>
+
+Поменять местами первое и последнее число в файле.
 
 # Credits
 
